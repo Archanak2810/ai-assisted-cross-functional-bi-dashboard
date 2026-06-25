@@ -2,8 +2,9 @@
 
 ## Links
 - **Streamlit Live URL:** https://newproject-mcepvojsuiwumvmqx8aw2f.streamlit.app/
-- **GitHub Repository URL:** _(paste your GitHub URL here)_
+- **GitHub Repository URL:** [paste your GitHub URL here](https://github.com/Archanak2810/ai-assisted-cross-functional-bi-dashboard/tree/main
 - **Dataset:** Synthetic RetailMart dataset loaded into Neon PostgreSQL
+- **OneDrive:** https://1drv.ms/f/c/33440d1b4aec2fdf/IgC_yDWqam60Tq84Tmt6l802ARDfFFRanGkz6WfIoJTIVXI?e=5ZqdUU 
 
 ## GitHub Repository
 - [ ] All repository files pushed (app.py, requirements.txt, sql/, docs/, assets/, .streamlit/)
@@ -29,9 +30,4 @@
 - [ ] Export tab: Text, Excel, and HTML reports download successfully
 - [ ] Sidebar filters update all relevant KPIs and charts
 
-## Academic Submission
-- [ ] Report references solution architecture, SQL, and development methodology
-- [ ] Appendix includes deployment evidence and representative SQL output
-- [ ] Dataset is described as synthetic
-- [ ] Domain question registry is referenced (`docs/business_questions/domain_questions_and_kpis.md`)
-- [ ] No passwords or connection secrets appear in the report, screenshots, or appendix
+

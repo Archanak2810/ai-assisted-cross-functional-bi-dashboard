@@ -1,0 +1,20 @@
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+*.pyo
+.env
+.DS_Store
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+*.log
+# Local validation outputs
+reports/neon_required_table_validation.csv
+reports/neon_data_quality_profile.csv
+.streamlit/secrets.toml
+.env
+database/*.zip
+_pycache_/
+.ipynb_checkpoints/

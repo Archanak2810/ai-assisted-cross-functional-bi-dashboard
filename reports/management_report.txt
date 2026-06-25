@@ -1,0 +1,31 @@
+AI-Assisted Cross-Functional BI Dashboard — Management Report
+=================================================================
+Revenue: ₹1,046.60 Cr
+Profit: ₹287.64 Cr
+Profit Margin: 27.48%
+Orders: 127,393
+
+Management Insights
+
+Executive
+- Selected filters show revenue of ₹10,465,997,550, profit of ₹2,876,355,030, and a profit margin of 27.5%.
+
+Sales & Customer
+- Lenovo Doloribus X is the highest-revenue product in the selected view and should be monitored for margin protection and availability.
+- 5,273 customers are classified as At-Risk Valuable based on RFM logic; targeted re-engagement can be prioritised.
+
+Marketing
+- Facebook has the highest marketing spend in the selected period. Review it alongside revenue-per-spend before reallocating budget.
+
+Finance
+- The largest expense category is Payroll; it should be reviewed when the cost-to-revenue ratio increases.
+
+HR
+- Legal has the highest headcount. Compare staffing level, average salary, and revenue contribution during workforce planning.
+
+Operations & Logistics
+- Line-3 has the highest production rejection rate. Quality checks and root-cause review should be prioritised.
+
+Cross-Functional
+- Review marketing spend together with revenue and profit because higher spend does not automatically indicate efficient growth.
+- Review categories with high inventory working capital and lower margins to reduce capital blockage and margin pressure.

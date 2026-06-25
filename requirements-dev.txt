@@ -1,0 +1,4 @@
+# Development and academic-analysis dependencies only.
+# Do not add these to requirements.txt because Streamlit Cloud does not need Jupyter.
+jupyterlab>=4.0
+ipykernel>=6.0

@@ -9,4 +9,7 @@ The project follows a cloud-connected Business Intelligence architecture:
 5. **Presentation layer:** Streamlit top tabs, sidebar filters, KPI cards, Plotly charts, management interpretations, and report export.
 6. **Decision-support layer:** rule-based AI-assisted insights, which translate thresholds and KPI movement into business-language observations and recommendations.
 
-See the accompanying figure in `assets/figures/solution_architecture.png`.
+# Solution_architecture
+
+<img width="1491" height="1055" alt="solution_architecture" src="https://github.com/user-attachments/assets/66ba0029-518f-46ef-99ac-6e1e3f8f02da" />
+
